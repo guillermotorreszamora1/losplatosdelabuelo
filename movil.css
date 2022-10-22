@@ -1,0 +1,61 @@
+body{
+background-color: #3030ff;
+}
+h2{
+color: #ff3030;
+text-align: center;
+font-size:12mm;
+}
+h3{
+font-size: 20mm;
+}
+img{
+width: 200px;
+}
+.contacto{
+background-color: #30ff30;
+position: absolute;
+right: 5mm;
+top: 5mm;
+padding-bottom: 2mm;
+padding-left: 2mm;
+padding-right: 2mm;
+padding-top: 2mm;
+color:#000000;
+float:right;
+}
+.inicio{
+background-color: #30ff30;
+position: absolute;
+left: 5mm;
+top: 5mm;
+padding-bottom: 2mm;
+padding-left: 2mm;
+padding-right: 2mm;
+padding-top: 2mm;
+color: #000000;
+}
+.contactar{
+background-color: #30ff30;
+padding-bottom: 5mm;
+padding-left: 5mm;
+padding-right: 5mm;
+padding-top: 5mm;
+}
+.contenido{
+position: relative;
+top: 15mm;
+}
+.principal{
+background-color: #30ff30;
+padding-bottom: 5mm;
+padding-left: 12mm;
+padding-right: 5mm;
+padding-top: 5mm;
+}
+.principal a:visited{
+color: #000000;
+}
+.principal a:link{
+color: #000000;
+}

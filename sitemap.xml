@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.9</priority>
+</url> 
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/contacto.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Entrantes.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/croquetasbacalao.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/alitaspollo.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/salmorejo.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/Vichyssoise.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/ensaladilla.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/huevosrellenos.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/indice.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Legumbres.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/legumbres/lentejas.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Mariscos.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/mariscos/cigala.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Pasta.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/canelones.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/ensaladapasta.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/espaguetis.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/lasana.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Patatas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/platosunicos.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/platosunicos/cocido.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Postres.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/postres/tartamanzana.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Salsas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Verduras.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/verduras/Pimientos.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pistocastellano.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Aves.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Aves/polloasado.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Caza.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/conejotomate.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Cerdo.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Cerdo/Costillas.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Cordero.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/albondigas.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/estofadobuey.jpg</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/Terneraasada.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Aves/polloasado.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Aves/polloasado.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Caza/conejotomate.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Caza/conejotomate.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Cerdo/Costillas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Cerdo/Costillas.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/albondigas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/albondigas.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/estofadobuey.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/Carne/Vacuno/estofadobuey.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/alitaspollo.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/alitaspollo.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/croquetrasbacalao.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/croquetasbacalao.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/ensaladilla.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/ensaladilla.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/huevosrellenos.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/huevosrellenos.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/salmorejo.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/salmorejo.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/Vichyssoise.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/entrantes/Vichyssoise.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/legumbres/lentejas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/legumbres/lentejas.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/mariscos/Cigalas.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/mariscos/cigala.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/canelosnes.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/canelones.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/ensaladapasta.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/ensaladapasta.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/espaguetis.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/espaguetis.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/Lasana.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/pasta/lasana.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pescado/Azul.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/pescado/Blanco.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/platosunicos/cocido.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/platosunicos/cocido.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/postres/tartamanzana.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/postres/tartamanzana.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/Salsas/bechamel.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/verduras/Pimientos.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/verduras/Pimientos.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>http://www.losplatosdelabuelo.hol.es/recetas/verduras/pistocastellano.php</loc>
+	<lastmod>2016-06-24</lastmod>
+	<priority>0.6</priority>
+	<image:image>
+		<image:loc>http://www.losplatosdelabuelo.hol.es/recetas/verduras/pistocastellano.jpg</image:loc>
+	</image:image>
+</url>
+</urlset> 

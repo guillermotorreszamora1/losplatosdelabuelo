@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta lang="es" xml:lang="es"  http-equiv="content-type" 
+		content="text/html;charset=utf-8" />
+		<title>losplatosdelabuelo</title>
+<?php  
+include("../../script.php");
+?>	
+	</head>
+	<body>
+	<h3><a href="../../" class="inicio">Inicio</a></h3>
+	
+   <h3><a href="../../contacto.php" class="contacto">contacto</a></h3>	
+  <div class="contenido">
+  <h2>Los platos del abuelo<br/>
+	La mejor web de recetas de cocina tradicional </h2><div class="principal">
+ <b>Espaguetis con salsa boloñesa y queso mozzarella<br/></b>
+<u>Ingredientes para 5 personas:<br/></u> 
+<img src="espaguetis.jpg" alt="imagen de espaguetis"/><br/>
+<ul>
+<li>1/2 kg de espaguetis </li>
+<li>1/2 kg de carne picada </li>
+<li>1 cebolla </li>
+<li>2 ajos </li>
+<li>6 tomates maduros </li>
+<li>1 vasito de vino blanco </li>
+<li>Albaca </li>
+<li>100 g de queso mozzarella </li>
+</ul>
+<u>Realización:<br/> </u>
+Cuece la pasta según fabricante , para la salsa 
+pica la cebolla menuda con los ajos , pochala en 
+una sartén , cuando este  pochado agrega los 
+tomates pelados , en trozos muy pequeño y la 
+carne , dale una vueltas , agrega el vino blanco 
+y la albaca , dale unas vueltas, tápalo y cuece 
+lentamente durante 1,5 horas removiendo despacio
+ .Sirve los espaguetis con la salsa y la mozzarella 
+   </div></div>
+</body>
+	</html>

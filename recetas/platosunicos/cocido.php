@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta lang="es" xml:lang="es"  http-equiv="content-type" 
+		content="text/html;charset=utf-8" />
+		<title>losplatosdelabuelo</title>
+<?php  
+include("../../script.php");
+?>
+	</head>
+	<body>
+	<h3><a href="../../" class="inicio">Inicio</a></h3>
+	
+   <h3><a href="../../contacto.php" class="contacto">contacto</a></h3>	
+  <div class="contenido">
+  <h2>Los platos del abuelo<br/>
+	La mejor web de recetas de cocina tradicional </h2><div class="principal">
+ <b>Cocido Madrileño<br/></b>
+ <img src="cocido.jpg" alt="imagen de cocido" /><br/>
+<u>Ingredientes para 10 personas:<br/></u> 
+<ul>
+<li>1 kg de jarete o morcillo </li>
+<li>2 chorizos </li>
+<li>300g de panceta salada</li>
+<li>1 hueso de cerdo salado </li>
+<li>1/4 kg de gallina</li>
+<li>1 punta de jamón </li>
+<li>700g de garbanzos</li> 
+<li>1 puerro </li>
+<li>2 zanahorias </li>
+<li>1 patata</li>
+<li>1 trozo de repollo </li>
+</ul>
+<u>Realización:<br/> </u>
+Pon la víspera a remojar los garbanzos, en una cazuela grande pon todos
+ los ingredientes menos el repollo. Ponlo en abundante agua a cocer
+ lentamente añadiendo si hace falta agua siempre caliente a la cocción,
+ cuando este cocido apartar las verduras y los garbanzos  por un sitio
+ , la carne por otro  y con el caldo hacer una sopa , cocer el repollo
+ aparte , se puede añadir un poco de caldo del repollo a la sopa.
+ Escurrir el repollo, rehogarlo con ajo y pimentón y acompañar los
+ garbanzos el que quiera. Servir primero la sopa, luego las
+ verduras y los garbanzos y después la carne.
+   </div></div>
+</body>
+	</html>
