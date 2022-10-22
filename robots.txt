@@ -1,3 +1,0 @@
-﻿Sitemap: http://www.losplatosdelabuelo.hol.es/sitemap.xml
-User-agent: *
-Allow: *
